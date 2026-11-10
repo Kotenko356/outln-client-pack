@@ -1,258 +1,258 @@
 {
-    "version":  17,
-    "updated":  "2026-11-10T20:53:25Z",
+    "version":  18,
+    "updated":  "2026-11-10T21:15:51Z",
     "files":  [
                   {
                       "path":  "mods/abyssal_decor_1.20.1_0.11.0_Forge.jar",
                       "sha1":  "957a93807de2b53339631a10fdb357cfb7f1c720",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/abyssal_decor_1.20.1_0.11.0_Forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/abyssal_decor_1.20.1_0.11.0_Forge.jar"
                   },
                   {
                       "path":  "mods/anomaly-2.1.0-forge-1.20.1.jar",
                       "sha1":  "8eb826b57a575538d4e2b1925d4ba31c8c1bcefa",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/anomaly-2.1.0-forge-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/anomaly-2.1.0-forge-1.20.1.jar"
                   },
                   {
                       "path":  "mods/Aquaculture-1.20.1-2.5.7.jar",
                       "sha1":  "308a0e92401e29bdb9cae24532a3b07a1bf6e757",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Aquaculture-1.20.1-2.5.7.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Aquaculture-1.20.1-2.5.7.jar"
                   },
                   {
                       "path":  "mods/AutoClose-1.0.8.jar",
                       "sha1":  "479aeb7c42a6127c644687eb693f28e76691e365",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/AutoClose-1.0.8.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/AutoClose-1.0.8.jar"
                   },
                   {
                       "path":  "mods/balm-forge-1.20.1-7.3.44.jar",
                       "sha1":  "dae7e647fc54609e66e4f910931be65776352b72",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/balm-forge-1.20.1-7.3.44.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/balm-forge-1.20.1-7.3.44.jar"
                   },
                   {
                       "path":  "mods/boiled_reimagined-1.0.12-forge-1.20.1.jar",
                       "sha1":  "048298c2a65c3a714cb575f0500c65e3a761a23b",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/boiled_reimagined-1.0.12-forge-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/boiled_reimagined-1.0.12-forge-1.20.1.jar"
                   },
                   {
                       "path":  "mods/BrewinAndChewin-1.20.1-3.2.1.jar",
                       "sha1":  "b11a91386ef9da2569b69fd4c229b1c31dcc2eb9",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/BrewinAndChewin-1.20.1-3.2.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/BrewinAndChewin-1.20.1-3.2.1.jar"
                   },
                   {
                       "path":  "mods/CameraOverhaul-v2.1.2-forge.jar",
                       "sha1":  "c387e165a204bb1e6d6a40f1bcbfd8f1f1065eb6",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/CameraOverhaul-v2.1.2-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/CameraOverhaul-v2.1.2-forge.jar"
                   },
                   {
                       "path":  "mods/Cinematic-Interaction-Forge-1.20.1-0.18.30.jar",
                       "sha1":  "9fb8423c3963ddd3449c480daae7d81e72632762",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Cinematic-Interaction-Forge-1.20.1-0.18.30.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Cinematic-Interaction-Forge-1.20.1-0.18.30.jar"
                   },
                   {
                       "path":  "mods/cloth-config-11.1.136-forge.jar",
                       "sha1":  "c65d07748acc57ceb45d53b3964368b84f34d54f",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/cloth-config-11.1.136-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/cloth-config-11.1.136-forge.jar"
                   },
                   {
                       "path":  "mods/cookingforblockheads-forge-1.20.1-16.0.15.jar",
                       "sha1":  "d8b64df5572bbc05e8adcb1c999639cfb7120438",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/cookingforblockheads-forge-1.20.1-16.0.15.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/cookingforblockheads-forge-1.20.1-16.0.15.jar"
                   },
                   {
                       "path":  "mods/culturaldelights-0.16.7.jar",
                       "sha1":  "20288317274a146267a0cc8c19dcc8898cb71c0a",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/culturaldelights-0.16.7.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/culturaldelights-0.16.7.jar"
                   },
                   {
                       "path":  "mods/displaydelight-1.7.0.jar",
                       "sha1":  "ee5cd8126ec4053a6a50ae1f2af434b91ab6d42e",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/displaydelight-1.7.0.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/displaydelight-1.7.0.jar"
                   },
                   {
                       "path":  "mods/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar",
                       "sha1":  "422cd454bf4bc662c146a4ca598fbc6b3e870ee8",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
                   },
                   {
                       "path":  "mods/embeddium-0.3.31+mc1.20.1.jar",
                       "sha1":  "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/embeddium-0.3.31%2Bmc1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/embeddium-0.3.31%2Bmc1.20.1.jar"
                   },
                   {
                       "path":  "mods/emi-1.1.24+1.20.1+forge.jar",
                       "sha1":  "ea320200878e4a49196760234a22da763671520a",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/emi-1.1.24%2B1.20.1%2Bforge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/emi-1.1.24%2B1.20.1%2Bforge.jar"
                   },
                   {
                       "path":  "mods/entityculling-forge-1.11.3-mc1.20.1.jar",
                       "sha1":  "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/entityculling-forge-1.11.3-mc1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/entityculling-forge-1.11.3-mc1.20.1.jar"
                   },
                   {
                       "path":  "mods/face_of_horror-3.3.jar",
                       "sha1":  "ceb3c644555ed55ad4a5e5befe116aaf61ab8a25",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/face_of_horror-3.3.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/face_of_horror-3.3.jar"
                   },
                   {
                       "path":  "mods/FarmersDelight-1.20.1-1.3.4.jar",
                       "sha1":  "26f615fd35f652021f5b0f1cba68afa7d578fe15",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/FarmersDelight-1.20.1-1.3.4.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/FarmersDelight-1.20.1-1.3.4.jar"
                   },
                   {
                       "path":  "mods/farmersrespite-1.20.1-2.1.2.jar",
                       "sha1":  "9ae5bc246cb1a8f3573ab685a4e9ddfaf869e2de",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/farmersrespite-1.20.1-2.1.2.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/farmersrespite-1.20.1-2.1.2.jar"
                   },
                   {
                       "path":  "mods/ferritecore-6.0.1-forge.jar",
                       "sha1":  "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/ferritecore-6.0.1-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/ferritecore-6.0.1-forge.jar"
                   },
                   {
                       "path":  "mods/from_the_caves-0.7.85.fm-forge-1.20.1.jar",
                       "sha1":  "fb4a8628776670c08b80d056a7b89493be7ac0a8",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/from_the_caves-0.7.85.fm-forge-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/from_the_caves-0.7.85.fm-forge-1.20.1.jar"
                   },
                   {
                       "path":  "mods/fwa+1.20.1-forge-1.3.4.jar",
                       "sha1":  "e8f52915a99ef77e6180a97c93a18d389c458def",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/fwa%2B1.20.1-forge-1.3.4.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/fwa%2B1.20.1-forge-1.3.4.jar"
                   },
                   {
                       "path":  "mods/geckolib-forge-1.20.1-4.8.4.jar",
                       "sha1":  "50e1407869ef0e909e3bdda9328b8bd7db03fdc0",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/geckolib-forge-1.20.1-4.8.4.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/geckolib-forge-1.20.1-4.8.4.jar"
                   },
                   {
                       "path":  "mods/grassiergrass-forge-1.4.5+mc1.20.1.jar",
                       "sha1":  "200619296093b96396fccd69f5d37336990387c9",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/grassiergrass-forge-1.4.5%2Bmc1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/grassiergrass-forge-1.4.5%2Bmc1.20.1.jar"
                   },
                   {
                       "path":  "mods/lasereyes-forge-1.3.3.jar",
                       "sha1":  "5fa79b94e87fb87e330598beda08922266318357",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/lasereyes-forge-1.3.3.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/lasereyes-forge-1.3.3.jar"
                   },
                   {
                       "path":  "mods/Midori-Stalker-2.0.0.jar",
                       "sha1":  "7bae534babdd3cf08775a9fa242ced4520fbdf15",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Midori-Stalker-2.0.0.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Midori-Stalker-2.0.0.jar"
                   },
                   {
                       "path":  "mods/modernfix-forge-5.27.91+mc1.20.1.jar",
                       "sha1":  "195d53d299a93c418c90b672c2640b4e41623f96",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/modernfix-forge-5.27.91%2Bmc1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/modernfix-forge-5.27.91%2Bmc1.20.1.jar"
                   },
                   {
                       "path":  "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
                       "sha1":  "d751153e722a4e014691c83f39f5b07c6ec5333c",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
                   },
                   {
                       "path":  "mods/oculus-mc1.20.1-1.8.0.jar",
                       "sha1":  "984f774e71790deaec674c7587bd24e0711871b2",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/oculus-mc1.20.1-1.8.0.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/oculus-mc1.20.1-1.8.0.jar"
                   },
                   {
                       "path":  "mods/OutliLoading-1.0.6.jar",
                       "sha1":  "4c0939031e2a043713264e8ac88585e6d4137fca",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/OutliLoading-1.0.6.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/OutliLoading-1.0.6.jar"
                   },
                   {
                       "path":  "mods/the_midnight_lurker-4.0.0-D3_beta-1.20.1.jar",
                       "sha1":  "9f1e8ac48f0a3ca109756e059e7f788951e1950d",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/the_midnight_lurker-4.0.0-D3_beta-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/the_midnight_lurker-4.0.0-D3_beta-1.20.1.jar"
                   },
                   {
                       "path":  "mods/the_wonderland-3.0.3-1.20.1-forge.jar",
                       "sha1":  "530b5b581e66b724088e9f5b0e6c190852ee6047",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/the_wonderland-3.0.3-1.20.1-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/the_wonderland-3.0.3-1.20.1-forge.jar"
                   },
                   {
                       "path":  "mods/The-Creator-v2.jar",
                       "sha1":  "a3395ca97a5de7ea931afe3f5d49d2831e85ddab",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/The-Creator-v2.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/The-Creator-v2.jar"
                   },
                   {
                       "path":  "mods/thesmiler-1.2.5-1.20.1.jar",
                       "sha1":  "9aa9064df904404a63c20077208af490c22df42e",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/thesmiler-1.2.5-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/thesmiler-1.2.5-1.20.1.jar"
                   },
                   {
                       "path":  "mods/theunseenentity-2.1.jar",
                       "sha1":  "d513e2aee99a870c60744889f06a34124b398b7c",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/theunseenentity-2.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/theunseenentity-2.1.jar"
                   },
                   {
                       "path":  "mods/timber_joinery-1.1.0-forge.jar",
                       "sha1":  "701d0b4b9c152e85db5c57c2ba34a9e0ba677ae2",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/timber_joinery-1.1.0-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/timber_joinery-1.1.0-forge.jar"
                   },
                   {
                       "path":  "mods/underbed-1.11.1.jar",
                       "sha1":  "3bcfbf55ece21d71a20e18a61a21863c162172c1",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/underbed-1.11.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/underbed-1.11.1.jar"
                   },
                   {
                       "path":  "mods/viltrumitecore-1.11.2-forge-1.20.1.jar",
                       "sha1":  "01e984ac27c886dca10568b9a7a730205dfe8f21",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/viltrumitecore-1.11.2-forge-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/viltrumitecore-1.11.2-forge-1.20.1.jar"
                   },
                   {
                       "path":  "mods/viltrumiteflight-1.6.9-forge-1.20.1.jar",
                       "sha1":  "e0c23627cb5bce3d92e93795785aad73a4419b6f",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/viltrumiteflight-1.6.9-forge-1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/viltrumiteflight-1.6.9-forge-1.20.1.jar"
                   },
                   {
                       "path":  "mods/voicechat-forge-1.20.1-2.6.26.jar",
                       "sha1":  "2b1f5ade402b6ef21b6b884b67444f4dbee2cc23",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/voicechat-forge-1.20.1-2.6.26.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/voicechat-forge-1.20.1-2.6.26.jar"
                   },
                   {
                       "path":  "mods/waveycapes-forge-1.11.3-mc1.20.1.jar",
                       "sha1":  "04028c18a6b4d6c190ed4dd95350521932b43d13",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/waveycapes-forge-1.11.3-mc1.20.1.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/waveycapes-forge-1.11.3-mc1.20.1.jar"
                   },
                   {
                       "path":  "mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
                       "sha1":  "de100712cf2b7187a23f5cd726b93e576592979b",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/WI-Zoom-1.5-MC1.20.1-Forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/WI-Zoom-1.5-MC1.20.1-Forge.jar"
                   },
                   {
                       "path":  "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
                       "sha1":  "92b70afa88486b2748754888fb5de74520727ba6",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar"
                   },
                   {
                       "path":  "resourcepacks/outln-ru.zip",
-                      "sha1":  "f59c8a572b8bcc05c8cafe46548ddeb87eb923a5",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/outln-ru.zip"
+                      "sha1":  "645c16c054713c9fc79ae2fd01819ceadda5bf51",
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/outln-ru.zip"
                   },
                   {
                       "path":  "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
                       "sha1":  "838139b54cddb56b2e83cd260d8efd960ac536d6",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/ComplementaryReimagined_r5.9.3.zip"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/ComplementaryReimagined_r5.9.3.zip"
                   },
                   {
                       "path":  "shaderpacks/Dreadfog-shaders-evelite-scary-edition.zip",
                       "sha1":  "928ae0317eabc673e12f653fd523f0375ce5a23d",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Dreadfog-shaders-evelite-scary-edition.zip"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Dreadfog-shaders-evelite-scary-edition.zip"
                   },
                   {
                       "path":  "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
                       "sha1":  "9831e55480e806139b316701abfbecab517fdc95",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Hysteria-Shaders-Universal-v1.2.1.zip"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Hysteria-Shaders-Universal-v1.2.1.zip"
                   },
                   {
                       "path":  "shaderpacks/Spooklementary_v2.0.4.zip",
                       "sha1":  "38651af0c334b9a5d454b903c982ccb24db0869a",
-                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/Spooklementary_v2.0.4.zip"
+                      "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/Spooklementary_v2.0.4.zip"
                   }
               ],
     "optional":  [
                      {
                          "path":  "mods/DistantHorizons-3.3.3-1.20.1.jar",
                          "sha1":  "5447c4716571bfdba817c85278a9ce0d411573ec",
-                         "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-17/DistantHorizons-3.3.3-1.20.1.jar"
+                         "url":  "https://github.com/Kotenko356/outln-client-pack/releases/download/client-18/DistantHorizons-3.3.3-1.20.1.jar"
                      }
                  ]
 }
